@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. Forasmuch as vpon the lamentable complaynt made vnto the Queenes most excellent Maiestie by sundry her louing subiects the clothiers of diuers parts of the realme, and of a multitude of other people mainteined in their handlabours by them: ...</title>
+            <title>Proclamations. 1576-11-28</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21772</idno>
+            <idno type="STC">STC 8087</idno>
+            <idno type="STC">ESTC S112146</idno>
+            <idno type="EEBO-CITATION">99847404</idno>
+            <idno type="PROQUEST">99847404</idno>
+            <idno type="VID">12437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 456:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. Forasmuch as vpon the lamentable complaynt made vnto the Queenes most excellent Maiestie by sundry her louing subiects the clothiers of diuers parts of the realme, and of a multitude of other people mainteined in their handlabours by them: ...</title>
+                  <title>Proclamations. 1576-11-28</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Richarde Iugge [i.e. B. Norton and J. Bill], printer to the Queenes Maiesty,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[c. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printers' names and publication date from STC.</note>
+                  <note>Restricting licences to buy wool for export.</note>
+                  <note>Line 1 of text ends: "Queenes" --STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:12437:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">F</seg>orſmuch as vpon the lamentable complaynt made vnto the Queenes moſt excellent Maieſtie by ſundry her louing ſubiects, the Clothiers of di<g ref="char:EOLhyphen"/>uers parts of the Realme, and of a multitude of other people mainteined in their handlabours by them: It appeareth that partly through the great death of ſheepe which of late yeeres hath happened in ſundry parts of the Realme, and partly through the great abuſe of ſome which haue obteined (vpon reaſonable conſyderations) licence to buy and ſell wooll within this Realme, who through their vnſatiable greedines by abuſe therof, without any regard had to the great miſchiefe that therby grow<g ref="char:EOLhyphen"/>eth to the common wealth, haue not onely vſed in the beginning of the yeere, and at other times, to engroſſe and buy vp great quantities of wooll, contrary to her Maieſties good and gracious meaning, whereupon the ſayd licences were gra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted: but in paſſing the bonds of their licences, by buying yeerely greater quantitie of wooll then they ought to doe, ſo that the Clothiers can buy litle or none, but ſuch as is very courſe, or elſe as ſuch erteſſiue prizes, as they can not make their principall thereof againe: whereby her Maieſtie underſtandeth, that without ſome reſtraynt of the ſayd licences for ſome reaſonable time, there ſhal follow great want to the Clothiers to continue their trade, for mayntenaunce aſwell of themſelues, as of great multitudes of poore people liuing onely vnder them, to the decay of diuers good townes, which are cheefely mainteyned by the Clothiers. Therefore by the aduice of her Counſel, her Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> ſtrayghtly chargeth and commaundeth, that from and after the publication of this preſent Proclamation, no perſon, (other then ſuch as by the lawes of this Realme are appointed and per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tted ſhal vpon paine of her Maieſties diſpleaſure and impriſonment during her pleaſure, by him <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſelfe, or by any other, either directly, or indirectly, by vertue of any their ſpeciall licence, buy or <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rgaine for any wools whatſoeuer, of the growing of this Realme, or of Wales, at any time be<g ref="char:EOLhyphen"/>f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the feaſt of all Saints next enſuing the publication hereof. And that all perſons, hauing at this time any graunt from her Maieſtie, to licence him or them to buy or ſell wooll, ſhall within two moneths after the publication hereof, exhibite into her Court of Exchequer the ſame graunt, to bee <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>lled there, whereby her Maieſtie may be enfourmed of the contents thereof, and ſo as (when came ſhalbe to remit the vſe thereof) order may be taken how the ſame may be hereafter ordered and vſed. Without ſuch publique damage to the Realme, as already hath appeared: And yf the ſame ſtall not be preſented to be enrolled within the ſayd time, that then the ſame ſhal not hereafter haue place to be vſed. And for the better execution hereof, her highneſſe by the aduice aforeſayd, ſtraightly <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>argeth and commandeth all and ſinguler Iuſtices of the peace, Maiors, Sheriffes, and Bayliffes, not onely to ſee this Proclamation truely executed, but alſo yf any perſon be iuſtly accuſed before him <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them for contemning or breaking this Proclamation, or any part thereof, they ſhall commit ſuch perſon to warde, there to remaine without bayle or maynepryce, till her Maieſties pleaſure be fur<g ref="char:EOLhyphen"/>ther knowen. Moreouer her highneſſe, meaning to leaue nothing vndone that may tend to the re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſe of ſo great a miſchiefe as were otherwyſe like to enſue, hath taken order that the company of the Marchants Staplers, that they nor any of them (notwithſtanding that by the ſtatutes of this Realme, they be permitted without limitation of time) ſhall not buy or bargayne, either directly, or indirectly, for any wools growing within this Realme, vntill the latter end of February next enſu<g ref="char:EOLhyphen"/>ing. And in caſe the ſayd Company, or any of them, ſhall contrary to the ſaid order, preſume to buy to bargaine for any wools: then her Maieſtie, vpon notice geuen vnto her priuie Counſell, of the perſons that ſhall ſo offend, will cauſe the ſayd parties to receiue ſuch puniſhment, as ſhall be due for their contempt in that behalfe.</p>
+            <closer>
+               <dateline>Giuen at Hampton Court <date>the xxviii. day of Nouember 1576. in the xix. yere of her Maieſties moſt proſperous raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Richard Iugge, Printer to the Queenes Maieſty.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>
+               <hi>Cum primilegio Regiae Maieſtatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
